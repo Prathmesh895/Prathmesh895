@@ -11,7 +11,7 @@
 
 ### 💫 About Me:
 
-- 🔭 I’m currently working as Full stack web Developer @ Britwise Technology, Pune
+- 🔭 I’m currently working as Full stack web Developer
 
 - 🌱 I’m currently learning: Advanced React and Next.js DSA
 
